@@ -1,0 +1,13 @@
+{
+  "name": "cell-demo-brownfield",
+  "version": "1.0.0",
+  "description": "Express REST API for AgentCells Brownfield demo",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "node tests/app.test.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
